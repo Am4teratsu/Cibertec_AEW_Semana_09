@@ -1,0 +1,134 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+
+body {
+    background-color: orange;
+}
+
+.contenedor {
+    width: 95%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: beige;
+}
+
+.heah1 {
+    padding: 20px;
+    text-align: center;
+    color: chocolate;
+}
+
+.heaimg {
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+
+nav {
+    background-color: yellow;
+}
+
+.nava {
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: red;
+}
+
+main {
+    display: flex;
+}
+
+aside {
+    width: 25%;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+
+.asih3 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.asia {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    display: block;
+    color: firebrick;
+}
+
+.asiimg {
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+section {
+    width: 50%;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.secfig {
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 1px solid blue;
+}
+
+.secimg {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.secfigc {
+    margin: 10px;
+    text-align: center;
+}
+
+.asiimg {
+    width: 70%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: green;
+}
+
+.foop {
+    margin: 10px;
+    color: white;
+}
+
+
+
+
+

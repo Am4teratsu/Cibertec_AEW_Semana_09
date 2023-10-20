@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: brown;
+}
+
+.contenedor {
+    width: 95%;
+    margin: auto;
+    background-color: white;
+}
+
+.logo {
+    margin: 10px;
+    float: right;
+}
+
+.banner{
+    width: 100%;
+}
+        
+main {
+    display: flex;
+}
+
+aside {
+    width: 20%;
+}
+
+.a {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    display: block;
+}
+
+section {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+}
+
+article {
+    margin: 10px;
+}
+
+.ai {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.pa {
+    margin-bottom: 10px;
+    font-size: 20pt;
+    color: darkblue;
+}
+
+.pa2 {
+    text-align: justify;
+}
+
+footer {
+    background-color: gray;
+    display: flex;
+}
+
+.fp {
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: yellow;
+}
+
+.fd {
+    margin: 10px;
+    display: flex;
+}
+
+.fi {
+    padding-right: 5px;
+}
